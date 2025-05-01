@@ -1,0 +1,25 @@
+.card {
+  width: 100%;
+  background: #747070;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.card-header h3 {
+  padding: 14px 16px;
+}
+
+.card-header img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-footer {
+  padding: 14px 16px;
+}
+.text {
+  padding: 24px;
+  text-align: center;
+  font-size: 32px;
+  font-family: "Aclonica";
+}
